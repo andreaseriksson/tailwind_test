@@ -1,5 +1,11 @@
 # TailwindTest
 
+## Before
+![Before](https://res.cloudinary.com/dwvh1fhcg/image/upload/v1559077419/articles/tailwind_test_before.png)
+
+## After
+![After](https://res.cloudinary.com/dwvh1fhcg/image/upload/v1559078018/articles/tailwind_test_after.png?a=1)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
