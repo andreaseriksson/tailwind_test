@@ -17,7 +17,7 @@ That should be enough for starting the Phoenix application. The next steps is ab
 
 After the database is created, install the javascript pagackes:
 
-    cd assets && npm install tailwindcss postcss-loader @fullhuman/postcss-purgecss
+    yarn add tailwindcss postcss-loader @fullhuman/postcss-purgecss --cwd assets
     
 Create the file `./assets/postcss.config.js`
 	
